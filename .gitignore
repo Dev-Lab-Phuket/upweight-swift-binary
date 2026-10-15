@@ -1,0 +1,6 @@
+# Release assets are uploaded separately, not committed.
+*.xcframework/
+*.zip
+.DS_Store
+.swiftpm/
+.build/

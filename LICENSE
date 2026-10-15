@@ -1,0 +1,22 @@
+Upweight SDK Proprietary Binary License
+
+Copyright Dev Lab Phuket. All rights reserved except for the limited
+permissions expressly granted below.
+
+Subject to these terms and any applicable customer agreement, customers may
+integrate the compiled Upweight SDK into their own applications and reproduce
+and redistribute the compiled SDK only as an embedded part of those applications.
+Customers may not redistribute, sublicense, sell, or resell the SDK as a
+standalone SDK, library, development tool, or competing SDK distribution.
+
+No license to the SDK implementation source code is granted. Ownership of the
+SDK and its intellectual property remains with Dev Lab Phuket. No other
+rights are granted by implication. Keep this notice with permitted copies.
+Nothing in these terms restricts rights that cannot lawfully be restricted
+under applicable law.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Dev Lab Phuket SHALL NOT BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SDK OR ITS USE.
