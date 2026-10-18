@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Upweight",
-            url: "https://github.com/Dev-Lab-Phuket/upweight-swift-binary/releases/download/0.1.1/Upweight.xcframework.zip",
-            checksum: "7628a7c2d8126b66792b55262fe088ccb93b14e2281d3fd1d2771b007799b897"
+            url: "https://github.com/Dev-Lab-Phuket/upweight-swift-binary/releases/download/0.2.0/Upweight.xcframework.zip",
+            checksum: "bdfaa881db668dd29a67bb3a37868059b300218b3b9aafe4791fa3f210fe8d8c"
         )
     ]
 )

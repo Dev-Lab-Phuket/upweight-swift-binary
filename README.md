@@ -1,9 +1,10 @@
 # Upweight for iOS
 
 Proprietary, binary-only Swift SDK. iOS 16+; module/product: Upweight.
-The 0.1.1 binary requires the tested Xcode 27 / Swift 6.4 toolchain. Older
-compiler compatibility is not verified or promised; Swift tools 6.0 manifest
-syntax alone does not establish binary consumer compatibility.
+The 0.2.0 binary was built with Xcode 27.1 / Swift 6.4 for iOS 16+ (device
+arm64; simulator arm64 and x86_64). Older compiler compatibility is not verified
+or promised; Swift tools 6.0 manifest syntax alone does not establish binary
+consumer compatibility.
 The implementation and its history remain private. This repository contains only
 the package manifest, this README, LICENSE, and .gitignore. The XCFramework ZIP
 is a separate release asset. Install only a version with a published release asset.
@@ -11,7 +12,7 @@ is a separate release asset. Install only a version with a published release ass
 ## Install
 
 Add https://github.com/Dev-Lab-Phuket/upweight-swift-binary in Xcode's package
-dependencies and select the Upweight product at version 0.1.1.
+dependencies and select the Upweight product at version 0.2.0.
 
 On the main actor, import Upweight, call Upweight.configure(key:) with your
 publishable key, then Upweight.identify(appUserID:) with your stable app user ID.
